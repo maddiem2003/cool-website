@@ -1,0 +1,39 @@
+h1{
+        color: purple;
+        background-color: black;
+        font-size:100px;
+    }
+    p{
+        font-family: verdana
+        font-size:50px;
+        color: purple
+    ;
+        background-color: black
+;
+    }
+    .imgsize{
+        height: 400px;
+        width:300px;
+    <img align="middle">
+    }
+    body {
+        background-color: black;
+        <INPUT Type="BUTTON" Value="Homepage" Onclick="window.location.href='http://www.pablopicasso.org/'"> 
+</FORM>
+         
+</FORM>
+    }
+   <html>
+   <head>
+   <style>
+   div.img {
+       margin: 5px;
+       border: 1px solid #ccc;
+       float: left;
+       width: 180px;
+       
+   }
+   <form>
+<input type="button" value="Put Your Text Here" onclick="window.location.href='http://www.pablopicasso.org/'" />
+</form>
+<FORM>
